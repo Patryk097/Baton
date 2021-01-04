@@ -1,0 +1,78 @@
+body{
+	background-color: #FBEFEF;
+	margin: 0px;
+	padding: 0px;
+}
+
+.baner{
+	width: 100%;
+	height: 50px;
+	background-color: #A52A2A;
+}
+
+.zawartosc{
+	margin-left: 280px;
+}
+
+h1, h2{
+	color: red;
+}
+
+h2{
+	border-bottom: 3px dotted red;
+}
+
+li, p{
+	font-family: Arial;
+	line-height: 25px;
+}
+
+img{
+	float: left;
+	margin-left: -80px;
+}
+
+.zawartosc li{
+	margin-left: 160px;
+}
+
+.menu{
+	height: 50px;
+	width: 195px;
+	position: fixed;
+	top: 50px;
+	left: 0;
+
+}
+
+.menu ul{
+	margin: 0px;
+	padding: 0px;
+	color: white;
+	background-color: #A52A2A;
+	
+}
+
+.menu li{
+	border-top: solid 1px white;
+	background-color: #ff4d4d;
+
+}
+
+.menu a{
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+}
+
+.menu a:hover{
+	background-color: red;
+}
+
+
+hr{
+	height: 4px;
+	background-color: red;
+	border: none;
+}
